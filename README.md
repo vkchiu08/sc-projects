@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects during the period of stanCode 101 course.
 
-Watch my *[DEMO VIDEOS!](https://drive.google.com/file/d/1iOy0NLXsrnU1mnk_P3w8JchEe9kNp6fJ/view?usp=sharing)*
+Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1QKYS7aoSNvIM41HGdHkZhL9IyvNJ2c9t?usp=sharing)*
 
 ## Project Source Codes:
 * [Pedestrain Removing Application](https://drive.google.com/file/d/1aiWU4IoZ73_HXXJU04jAZbyh-AL5U0yz/view?usp=sharing)
